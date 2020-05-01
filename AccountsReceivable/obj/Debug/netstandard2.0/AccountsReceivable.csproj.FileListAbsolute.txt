@@ -1,0 +1,8 @@
+F:\Radixweb\C-Sharp\Microsoft Learning\SQL\InstructorGuidesProject\AccountsReceivable\bin\Debug\netstandard2.0\AccountsReceivable.deps.json
+F:\Radixweb\C-Sharp\Microsoft Learning\SQL\InstructorGuidesProject\AccountsReceivable\bin\Debug\netstandard2.0\AccountsReceivable.dll
+F:\Radixweb\C-Sharp\Microsoft Learning\SQL\InstructorGuidesProject\AccountsReceivable\bin\Debug\netstandard2.0\AccountsReceivable.pdb
+F:\Radixweb\C-Sharp\Microsoft Learning\SQL\InstructorGuidesProject\AccountsReceivable\obj\Debug\netstandard2.0\AccountsReceivable.csprojAssemblyReference.cache
+F:\Radixweb\C-Sharp\Microsoft Learning\SQL\InstructorGuidesProject\AccountsReceivable\obj\Debug\netstandard2.0\AccountsReceivable.AssemblyInfoInputs.cache
+F:\Radixweb\C-Sharp\Microsoft Learning\SQL\InstructorGuidesProject\AccountsReceivable\obj\Debug\netstandard2.0\AccountsReceivable.AssemblyInfo.cs
+F:\Radixweb\C-Sharp\Microsoft Learning\SQL\InstructorGuidesProject\AccountsReceivable\obj\Debug\netstandard2.0\AccountsReceivable.dll
+F:\Radixweb\C-Sharp\Microsoft Learning\SQL\InstructorGuidesProject\AccountsReceivable\obj\Debug\netstandard2.0\AccountsReceivable.pdb

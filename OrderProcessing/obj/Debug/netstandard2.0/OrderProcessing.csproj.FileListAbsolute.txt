@@ -1,0 +1,8 @@
+F:\Radixweb\WFH\InstructorGuidesProject\OrderProcessing\bin\Debug\netstandard2.0\OrderProcessing.deps.json
+F:\Radixweb\WFH\InstructorGuidesProject\OrderProcessing\bin\Debug\netstandard2.0\OrderProcessing.dll
+F:\Radixweb\WFH\InstructorGuidesProject\OrderProcessing\bin\Debug\netstandard2.0\OrderProcessing.pdb
+F:\Radixweb\WFH\InstructorGuidesProject\OrderProcessing\obj\Debug\netstandard2.0\OrderProcessing.csprojAssemblyReference.cache
+F:\Radixweb\WFH\InstructorGuidesProject\OrderProcessing\obj\Debug\netstandard2.0\OrderProcessing.AssemblyInfoInputs.cache
+F:\Radixweb\WFH\InstructorGuidesProject\OrderProcessing\obj\Debug\netstandard2.0\OrderProcessing.AssemblyInfo.cs
+F:\Radixweb\WFH\InstructorGuidesProject\OrderProcessing\obj\Debug\netstandard2.0\OrderProcessing.dll
+F:\Radixweb\WFH\InstructorGuidesProject\OrderProcessing\obj\Debug\netstandard2.0\OrderProcessing.pdb

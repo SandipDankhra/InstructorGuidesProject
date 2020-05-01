@@ -1,0 +1,8 @@
+F:\Radixweb\C-Sharp\Microsoft Learning\SQL\InstructorGuidesProject\AccountsPayable\bin\Debug\netstandard2.0\AccountsPayable.deps.json
+F:\Radixweb\C-Sharp\Microsoft Learning\SQL\InstructorGuidesProject\AccountsPayable\bin\Debug\netstandard2.0\AccountsPayable.dll
+F:\Radixweb\C-Sharp\Microsoft Learning\SQL\InstructorGuidesProject\AccountsPayable\bin\Debug\netstandard2.0\AccountsPayable.pdb
+F:\Radixweb\C-Sharp\Microsoft Learning\SQL\InstructorGuidesProject\AccountsPayable\obj\Debug\netstandard2.0\AccountsPayable.csprojAssemblyReference.cache
+F:\Radixweb\C-Sharp\Microsoft Learning\SQL\InstructorGuidesProject\AccountsPayable\obj\Debug\netstandard2.0\AccountsPayable.AssemblyInfoInputs.cache
+F:\Radixweb\C-Sharp\Microsoft Learning\SQL\InstructorGuidesProject\AccountsPayable\obj\Debug\netstandard2.0\AccountsPayable.AssemblyInfo.cs
+F:\Radixweb\C-Sharp\Microsoft Learning\SQL\InstructorGuidesProject\AccountsPayable\obj\Debug\netstandard2.0\AccountsPayable.dll
+F:\Radixweb\C-Sharp\Microsoft Learning\SQL\InstructorGuidesProject\AccountsPayable\obj\Debug\netstandard2.0\AccountsPayable.pdb
