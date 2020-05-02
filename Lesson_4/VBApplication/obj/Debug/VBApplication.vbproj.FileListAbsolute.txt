@@ -1,0 +1,2 @@
+F:\Radixweb\WFH\InstructorGuidesProject\Lesson_4\VBApplication\obj\Debug\VBApplication.Resources.resources
+F:\Radixweb\WFH\InstructorGuidesProject\Lesson_4\VBApplication\obj\Debug\VBApplication.vbproj.GenerateResource.cache
