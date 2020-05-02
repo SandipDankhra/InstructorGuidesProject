@@ -1,0 +1,6 @@
+F:\Radixweb\WFH\InstructorGuidesProject\Lesson_2\GenericStack\bin\Debug\GenericStack.exe.config
+F:\Radixweb\WFH\InstructorGuidesProject\Lesson_2\GenericStack\bin\Debug\GenericStack.exe
+F:\Radixweb\WFH\InstructorGuidesProject\Lesson_2\GenericStack\bin\Debug\GenericStack.pdb
+F:\Radixweb\WFH\InstructorGuidesProject\Lesson_2\GenericStack\obj\Debug\GenericStack.csprojAssemblyReference.cache
+F:\Radixweb\WFH\InstructorGuidesProject\Lesson_2\GenericStack\obj\Debug\GenericStack.exe
+F:\Radixweb\WFH\InstructorGuidesProject\Lesson_2\GenericStack\obj\Debug\GenericStack.pdb

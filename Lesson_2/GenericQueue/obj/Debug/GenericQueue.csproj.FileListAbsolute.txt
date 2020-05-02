@@ -1,0 +1,6 @@
+F:\Radixweb\WFH\InstructorGuidesProject\Lesson_2\GenericQueue\bin\Debug\GenericQueue.exe.config
+F:\Radixweb\WFH\InstructorGuidesProject\Lesson_2\GenericQueue\bin\Debug\GenericQueue.exe
+F:\Radixweb\WFH\InstructorGuidesProject\Lesson_2\GenericQueue\bin\Debug\GenericQueue.pdb
+F:\Radixweb\WFH\InstructorGuidesProject\Lesson_2\GenericQueue\obj\Debug\GenericQueue.csprojAssemblyReference.cache
+F:\Radixweb\WFH\InstructorGuidesProject\Lesson_2\GenericQueue\obj\Debug\GenericQueue.exe
+F:\Radixweb\WFH\InstructorGuidesProject\Lesson_2\GenericQueue\obj\Debug\GenericQueue.pdb
