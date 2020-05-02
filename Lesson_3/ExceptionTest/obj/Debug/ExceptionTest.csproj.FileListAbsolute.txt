@@ -1,0 +1,5 @@
+F:\Radixweb\WFH\InstructorGuidesProject\Lesson_3\ExceptionTest\bin\Debug\ExceptionTest.exe.config
+F:\Radixweb\WFH\InstructorGuidesProject\Lesson_3\ExceptionTest\bin\Debug\ExceptionTest.exe
+F:\Radixweb\WFH\InstructorGuidesProject\Lesson_3\ExceptionTest\bin\Debug\ExceptionTest.pdb
+F:\Radixweb\WFH\InstructorGuidesProject\Lesson_3\ExceptionTest\obj\Debug\ExceptionTest.exe
+F:\Radixweb\WFH\InstructorGuidesProject\Lesson_3\ExceptionTest\obj\Debug\ExceptionTest.pdb

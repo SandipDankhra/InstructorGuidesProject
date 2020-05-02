@@ -1,0 +1,5 @@
+F:\Radixweb\WFH\InstructorGuidesProject\Lesson_3\SampleEvents\bin\Debug\SampleEvents.exe.config
+F:\Radixweb\WFH\InstructorGuidesProject\Lesson_3\SampleEvents\bin\Debug\SampleEvents.exe
+F:\Radixweb\WFH\InstructorGuidesProject\Lesson_3\SampleEvents\bin\Debug\SampleEvents.pdb
+F:\Radixweb\WFH\InstructorGuidesProject\Lesson_3\SampleEvents\obj\Debug\SampleEvents.exe
+F:\Radixweb\WFH\InstructorGuidesProject\Lesson_3\SampleEvents\obj\Debug\SampleEvents.pdb
