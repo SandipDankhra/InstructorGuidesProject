@@ -1,0 +1,11 @@
+F:\Radixweb\WFH\LINQ\LinqExample\bin\Debug\netcoreapp3.1\LinqExample.exe
+F:\Radixweb\WFH\LINQ\LinqExample\bin\Debug\netcoreapp3.1\LinqExample.deps.json
+F:\Radixweb\WFH\LINQ\LinqExample\bin\Debug\netcoreapp3.1\LinqExample.runtimeconfig.json
+F:\Radixweb\WFH\LINQ\LinqExample\bin\Debug\netcoreapp3.1\LinqExample.runtimeconfig.dev.json
+F:\Radixweb\WFH\LINQ\LinqExample\bin\Debug\netcoreapp3.1\LinqExample.dll
+F:\Radixweb\WFH\LINQ\LinqExample\bin\Debug\netcoreapp3.1\LinqExample.pdb
+F:\Radixweb\WFH\LINQ\LinqExample\obj\Debug\netcoreapp3.1\LinqExample.csprojAssemblyReference.cache
+F:\Radixweb\WFH\LINQ\LinqExample\obj\Debug\netcoreapp3.1\LinqExample.AssemblyInfoInputs.cache
+F:\Radixweb\WFH\LINQ\LinqExample\obj\Debug\netcoreapp3.1\LinqExample.AssemblyInfo.cs
+F:\Radixweb\WFH\LINQ\LinqExample\obj\Debug\netcoreapp3.1\LinqExample.dll
+F:\Radixweb\WFH\LINQ\LinqExample\obj\Debug\netcoreapp3.1\LinqExample.pdb
